@@ -24,15 +24,7 @@ This dashboard was built using:
 
 ### 📂 Data Source
 
-**Source:** Public IPL datasets from [Kaggle](https://www.kaggle.com/datasets) and other cricket APIs.
-
-**Included Data Tables:**
-
-* `matches.csv` – Match-level data (season, teams, winner, venue)
-* `deliveries.csv` – Ball-by-ball stats (runs, dismissals, player actions)
-* `players.csv` – Player metadata
-* `teams.csv` – Team details
-* `venues.csv` – Stadium locations and stats
+**Source:** Public IPL datasets from [Kaggle](https://www.kaggle.com/datasets)
 
 ---
 
